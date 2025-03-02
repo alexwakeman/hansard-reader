@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HansardCollect.iml" filepath="$PROJECT_DIR$/.idea/HansardCollect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SiteTree/.idea/WebTraverse.iml" filepath="$PROJECT_DIR$/../SiteTree/.idea/WebTraverse.iml" />
+    </modules>
+  </component>
+</project>
